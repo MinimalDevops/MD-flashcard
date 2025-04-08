@@ -62,46 +62,45 @@ You can navigate the flashcard preview using keyboard shortcuts: Space bar to fl
 
 ### Markdown Format
 
-\`\`\`markdown
-# Deck Title
-_Optional deck description_
+```
+# Sample Deck
+_This is a sample flashcard deck_
 
-## Card: First Card [Category: Optional Category]
-
-### Front
-
-Your question or prompt goes here
-
-### Back
-
-Your answer goes here
-
-## Card: Another Card [Category: Another Category]
+## Card: Basic Math [Category: Math]
 
 ### Front
 
-Another question
+What is 2 + 2?
 
 ### Back
 
-Another answer
-\`\`\`
+The answer is 4
+1. This too
 
-### Example
-
-Here's a sample deck about programming concepts:
-
-\`\`\`markdown
-# Programming Concepts
-_A deck about basic programming concepts_
-
-## Card: Object-Oriented Programming [Category: Programming Paradigms]
+## Card: Geo Knowledge [Category: Geography]
 
 ### Front
 
-What are the four main principles of Object-Oriented Programming (OOP)?
+What is the capital of France?
 
-### Back
+### Back 
+
+Paris is the capital of France.
+This is not printed
+
+## Card: Technology [Category: Technology]
+
+### Front
+
+who are top 4 cloud service provider?
+
+### Back 
+
+Amazon
+Google
+Microsoft
+Oracle
+```
 
 The four main principles of OOP are:
 
