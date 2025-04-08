@@ -14,7 +14,7 @@ Convert your Markdown files into interactive flashcards right in VSCode! MD Flas
 
 ### Option 1: Install from VSIX file
 
-1. Download the latest `md-flashcard-x.x.x.vsix` file from the [GitHub Releases](https://github.com/MinimalDevops/MD-flashcard/releases) page
+1. Download the latest `md-flashcard-x.x.x.vsix` file from the [GitHub Releases](https://github.com/MinimalDevops/MD-flashcard/tree/main/release) page
 2. Open VSCode
 3. Open the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `Cmd+Shift+P` on macOS)
 4. Type "Install from VSIX" and select the command
