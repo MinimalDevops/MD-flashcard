@@ -102,52 +102,9 @@ Microsoft
 Oracle
 ```
 
-The four main principles of OOP are:
-
-- Encapsulation: Bundling data and methods that operate on that data within a single unit
-- Inheritance: The mechanism that allows a class to inherit properties and methods from another class
-- Polymorphism: The ability to present the same interface for different underlying forms (data types or classes)
-- Abstraction: Hiding complex implementation details and showing only the necessary features of an object
-
-## Card: REST API [Category: Web Development]
-
-### Front
-
-What is a REST API and what are its key characteristics?
-
-### Back
-
-REST (Representational State Transfer) is an architectural style for designing networked applications.
-
-Key characteristics include:
-- Stateless: Each request contains all necessary information
-- Client-Server: Separation of concerns between client and server
-- Cacheable: Responses must define themselves as cacheable or not
-- Uniform Interface: Standardized way to communicate between client and server
-- Layered System: Client cannot tell if it's connected directly to the server
-
-Common HTTP methods used:
-- GET: Retrieve data
-- POST: Create new data
-- PUT/PATCH: Update existing data
-- DELETE: Remove data
-\`\`\`
-
 ## Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Setup
-
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Make your changes
-4. Test your changes:
-   - Press F5 in VSCode to launch a new Extension Development Host window
-   - Create a markdown file and try the flashcard preview feature
-5. Build and package:
-   - Run `npm run build` to build the extension
-   - Run `npx @vscode/vsce package` to create a VSIX file
 
 ## License
 
