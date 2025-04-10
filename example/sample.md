@@ -10,7 +10,6 @@ What is 2 + 2?
 ### Back
 
 The answer is 4
-1. This too
 
 ## Card: Geo Knowledge [Category: Geography]
 
@@ -21,7 +20,6 @@ What is the capital of France?
 ### Back 
 
 Paris is the capital of France.
-This is not printed
 
 ## Card: Technology [Category: Technology]
 
